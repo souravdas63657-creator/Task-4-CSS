@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.image{
+    width: 500px;
+}
+.image-container{
+   padding: 200px 500px;
+
+}
+.interact-button{
+    padding: 10px 218px;
+    margin: 0;
+    font-size: 16px;
+    cursor: pointer;
+    background: linear-gradient(to right, #255619, #a54d0a);
+}
